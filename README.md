@@ -21,3 +21,6 @@ Checkout, tela de produto, catálogo, Home com banner
 2. Integração com outros pagamentos
 3. Sistema de bônus para primeira compra
 
+### Imagem local:
+
+![Logo JS](img\js.png)
