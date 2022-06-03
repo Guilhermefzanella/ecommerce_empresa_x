@@ -31,3 +31,11 @@ Checkout, tela de produto, catálogo, Home com banner
 
 ### Seção de links:
 [Google](https://www.google.com)
+
+## Código função soma:
+
+'''JavaScript
+function soma(a,b) {
+    return a+b;
+}
+'''
