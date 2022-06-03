@@ -34,8 +34,8 @@ Checkout, tela de produto, catálogo, Home com banner
 
 ## Código função soma:
 
-'''JavaScript
+```JavaScript
 function soma(a,b) {
     return a+b;
 }
-'''
+```
