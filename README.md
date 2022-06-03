@@ -23,4 +23,4 @@ Checkout, tela de produto, catálogo, Home com banner
 
 ### Imagem local:
 
-![Logo JS](img\js.png)
+![Logo JS](img/js.png)
